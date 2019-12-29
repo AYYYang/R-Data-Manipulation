@@ -14,3 +14,4 @@ I will focus on using R to manipulate and mine **small-scale biological data**, 
 * utils:
   * functions that I wrote to make the scripts to more clean. Used bioMart to get Ensembl gene symbols.
 
+## Please ask me questions and let me know how I can improve and grow faster :)
