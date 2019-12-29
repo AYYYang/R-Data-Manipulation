@@ -12,5 +12,5 @@ I will focus on using R to manipulate and mine **small-scale biological data**, 
   * subsetting desired columns for comparison. Then use sqldf and dplyr to query and combine peaks with desired attributes.
 
 * utils:
-  * functions that I wrote to make the scripts to more clean.
+  * functions that I wrote to make the scripts to more clean. Used bioMart to get Ensembl gene symbols.
 
